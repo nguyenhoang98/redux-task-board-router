@@ -1,0 +1,27 @@
+.PagesActionProducts{
+  width : 450px ;
+  height: auto;
+  background : 'white' ;
+  box-shadow: 1px 1px 1px #ccc , -1px -1px 1px #ccc ;
+  padding:20px ;
+  margin:20px 100px ;
+}
+.group-form{
+  margin:20px 0px ;
+}
+label{
+  display: block;
+}
+input[type = 'text'] ,
+textarea {
+  width:100% ;
+  height: auto;
+  padding:6px ;
+}
+.btn-prev{
+  background-color: red;
+}
+.btn-save{
+  background-color: blue;
+}
+

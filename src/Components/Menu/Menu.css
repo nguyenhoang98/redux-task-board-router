@@ -1,0 +1,28 @@
+
+.menu{
+    width:100% ;
+    height: auto;
+    background : #333 ;
+}
+.menu::after{
+    content: '';
+    clear: both;
+    display: table;
+}
+.menu ul{
+    padding:0px;
+    margin:0px;
+    list-style-type: none;
+}
+.menu ul li{
+    float:left ;
+}
+.menu ul li a{
+    padding:10px 16px ;
+    display: block;
+    color:white ;
+    text-decoration: none;
+}
+.action{
+  background-color: red;
+}

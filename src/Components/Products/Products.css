@@ -1,0 +1,28 @@
+
+.products{
+  width:80% ;
+  height: auto;
+  margin:auto ;
+}
+.add-task{
+  margin:10px 0px ;
+}
+.btn-add-task{
+  background-color: blue;
+}
+.task-title{
+  background-color: greenyellow;
+  color:red ;
+  padding:10px ;
+}
+.task-list{
+  width:100% ;
+  height: auto;
+}
+table{
+  width:100% ;
+  box-shadow: 1px 1px 1px #ccc , -1px -1px 1px #ccc ;
+}
+tr , th , td{
+  border-bottom: 1px solid #ccc ;
+}
